@@ -3,6 +3,8 @@ AssetHostingWithMinimumSsl
 
 It's slow to serve assets that doesn't need to be secure over SSL. This plugin will let you send assets over non-SSL as often as possible.
 
+Note: This plugin requires Rails with a revision of 229f959d15e451890db60dbb73f8565079977814 or newer (Nov 27, 2008).
+
 
 Example
 =======
